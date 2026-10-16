@@ -4,7 +4,7 @@
 
 ## Как установить
 
-1. Перейдите в раздел **Releases** (справа на главной странице репозитория).
+1. Перейдите в раздел **[Releases](https://github.com/grabchevsky/Google-Earth-Pro/releases)**.
 2. Скачайте установочный файл `GoogleEarthProSetup-wojtek.exe`.
 3. Запустите файл и следуйте инструкциям мастера установки.
 
